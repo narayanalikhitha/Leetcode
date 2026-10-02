@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0229-majority-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
