@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Union-Find
@@ -141,11 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
