@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
