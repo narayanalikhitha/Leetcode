@@ -12,7 +12,7 @@ class Solution {
         int rem=sum%9;
         if(rem>0)
         {
-            ans.append(0+rem);
+            ans.append(rem);
         }
         int d=num-ans.length();
         if(d>0)
