@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
